@@ -4,5 +4,3 @@ dependencies:
   - numpy
   - pandas
   - plotly
-  - matplotlib
-  - seaborn
